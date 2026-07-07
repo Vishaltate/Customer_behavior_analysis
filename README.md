@@ -12,8 +12,6 @@ The project follows a structured analytics process, making it suitable for showc
 
 The dataset contains business-related information used for analysis. It was imported into Python for preprocessing and explored to identify trends, patterns, and key performance indicators.
 
-*Note:* Replace this section with a brief description of your dataset, including its source, number of records, and important columns.
-
 ---
 
 ## Tools & Technologies
@@ -22,16 +20,12 @@ The dataset contains business-related information used for analysis. It was impo
 
   * Pandas
   * NumPy
-  * Matplotlib
-  * Seaborn
-* **SQL**
 
-  * PostgreSQL
-  * MySQL
-  * Microsoft SQL Server
+* **SQL**
+ * PostgreSQL
+ 
 * **Power BI**
 * **Jupyter Notebook**
-* **Gamma** (Presentation)
 * **Microsoft Excel**
 
 ---
@@ -122,9 +116,6 @@ Data-Analytics-Project/
 ├── notebooks/
 ├── sql/
 ├── powerbi/
-├── reports/
-├── presentation/
-├── images/
 └── README.md
 ```
 
@@ -137,8 +128,7 @@ Data-Analytics-Project/
 
    * pandas
    * numpy
-   * matplotlib
-   * seaborn
+   
 3. Open the Jupyter Notebook.
 4. Run the notebook cells in order.
 5. Import the cleaned dataset into PostgreSQL, MySQL, or SQL Server.
